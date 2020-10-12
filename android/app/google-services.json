@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "251740690112",
+    "firebase_url": "https://fir-authlogin-5ee12.firebaseio.com",
+    "project_id": "fir-authlogin-5ee12",
+    "storage_bucket": "fir-authlogin-5ee12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251740690112:android:cb7933fb4d725dd2aaff25",
+        "android_client_info": {
+          "package_name": "com.example.kaewta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251740690112-o6r8l51th8ttrosvdnj8g9uej68pbi61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7I3xAGpw0-bsXxiUwkpi9C_kVX1-ohtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251740690112-o6r8l51th8ttrosvdnj8g9uej68pbi61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
